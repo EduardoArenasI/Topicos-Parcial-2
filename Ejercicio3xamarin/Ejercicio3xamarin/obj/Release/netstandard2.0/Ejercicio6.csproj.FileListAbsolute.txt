@@ -1,0 +1,30 @@
+C:\Users\Pablo Che\Documents\Practicas segundo parcial\Ejercicio6\Ejercicio6\Ejercicio6\bin\Release\netstandard2.0\Ejercicio6.deps.json
+C:\Users\Pablo Che\Documents\Practicas segundo parcial\Ejercicio6\Ejercicio6\Ejercicio6\bin\Release\netstandard2.0\Ejercicio6.dll
+C:\Users\Pablo Che\Documents\Practicas segundo parcial\Ejercicio6\Ejercicio6\Ejercicio6\bin\Release\netstandard2.0\Ejercicio6.pdb
+C:\Users\Pablo Che\Documents\Practicas segundo parcial\Ejercicio6\Ejercicio6\Ejercicio6\obj\Release\netstandard2.0\Ejercicio6.csproj.AssemblyReference.cache
+C:\Users\Pablo Che\Documents\Practicas segundo parcial\Ejercicio6\Ejercicio6\Ejercicio6\obj\Release\netstandard2.0\Ejercicio6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pablo Che\Documents\Practicas segundo parcial\Ejercicio6\Ejercicio6\Ejercicio6\obj\Release\netstandard2.0\App.xaml.g.cs
+C:\Users\Pablo Che\Documents\Practicas segundo parcial\Ejercicio6\Ejercicio6\Ejercicio6\obj\Release\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Pablo Che\Documents\Practicas segundo parcial\Ejercicio6\Ejercicio6\Ejercicio6\obj\Release\netstandard2.0\Ejercicio6.AssemblyInfoInputs.cache
+C:\Users\Pablo Che\Documents\Practicas segundo parcial\Ejercicio6\Ejercicio6\Ejercicio6\obj\Release\netstandard2.0\Ejercicio6.AssemblyInfo.cs
+C:\Users\Pablo Che\Documents\Practicas segundo parcial\Ejercicio6\Ejercicio6\Ejercicio6\obj\Release\netstandard2.0\Ejercicio6.csproj.CoreCompileInputs.cache
+C:\Users\Pablo Che\Documents\Practicas segundo parcial\Ejercicio6\Ejercicio6\Ejercicio6\obj\Release\netstandard2.0\XamlC.stamp
+C:\Users\Pablo Che\Documents\Practicas segundo parcial\Ejercicio6\Ejercicio6\Ejercicio6\obj\Release\netstandard2.0\Ejercicio6.dll
+C:\Users\Pablo Che\Documents\Practicas segundo parcial\Ejercicio6\Ejercicio6\Ejercicio6\obj\Release\netstandard2.0\refint\Ejercicio6.dll
+C:\Users\Pablo Che\Documents\Practicas segundo parcial\Ejercicio6\Ejercicio6\Ejercicio6\obj\Release\netstandard2.0\Ejercicio6.pdb
+C:\Users\Pablo Che\Documents\Practicas segundo parcial\Ejercicio6\Ejercicio6\Ejercicio6\obj\Release\netstandard2.0\ref\Ejercicio6.dll
+C:\Users\Magdiel\Documents\Lira2Parcial\Ejercicio6Movil\Ejercicio6\Ejercicio6\bin\Release\netstandard2.0\Ejercicio6.deps.json
+C:\Users\Magdiel\Documents\Lira2Parcial\Ejercicio6Movil\Ejercicio6\Ejercicio6\bin\Release\netstandard2.0\Ejercicio6.dll
+C:\Users\Magdiel\Documents\Lira2Parcial\Ejercicio6Movil\Ejercicio6\Ejercicio6\bin\Release\netstandard2.0\Ejercicio6.pdb
+C:\Users\Magdiel\Documents\Lira2Parcial\Ejercicio6Movil\Ejercicio6\Ejercicio6\obj\Release\netstandard2.0\Ejercicio6.csproj.AssemblyReference.cache
+C:\Users\Magdiel\Documents\Lira2Parcial\Ejercicio6Movil\Ejercicio6\Ejercicio6\obj\Release\netstandard2.0\Ejercicio6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Magdiel\Documents\Lira2Parcial\Ejercicio6Movil\Ejercicio6\Ejercicio6\obj\Release\netstandard2.0\App.xaml.g.cs
+C:\Users\Magdiel\Documents\Lira2Parcial\Ejercicio6Movil\Ejercicio6\Ejercicio6\obj\Release\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Magdiel\Documents\Lira2Parcial\Ejercicio6Movil\Ejercicio6\Ejercicio6\obj\Release\netstandard2.0\Ejercicio6.AssemblyInfoInputs.cache
+C:\Users\Magdiel\Documents\Lira2Parcial\Ejercicio6Movil\Ejercicio6\Ejercicio6\obj\Release\netstandard2.0\Ejercicio6.AssemblyInfo.cs
+C:\Users\Magdiel\Documents\Lira2Parcial\Ejercicio6Movil\Ejercicio6\Ejercicio6\obj\Release\netstandard2.0\Ejercicio6.csproj.CoreCompileInputs.cache
+C:\Users\Magdiel\Documents\Lira2Parcial\Ejercicio6Movil\Ejercicio6\Ejercicio6\obj\Release\netstandard2.0\XamlC.stamp
+C:\Users\Magdiel\Documents\Lira2Parcial\Ejercicio6Movil\Ejercicio6\Ejercicio6\obj\Release\netstandard2.0\Ejercicio6.dll
+C:\Users\Magdiel\Documents\Lira2Parcial\Ejercicio6Movil\Ejercicio6\Ejercicio6\obj\Release\netstandard2.0\refint\Ejercicio6.dll
+C:\Users\Magdiel\Documents\Lira2Parcial\Ejercicio6Movil\Ejercicio6\Ejercicio6\obj\Release\netstandard2.0\Ejercicio6.pdb
+C:\Users\Magdiel\Documents\Lira2Parcial\Ejercicio6Movil\Ejercicio6\Ejercicio6\obj\Release\netstandard2.0\ref\Ejercicio6.dll

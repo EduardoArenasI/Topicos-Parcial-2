@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Ejercicio6.MainPage">
+
+    <StackLayout>
+
+        <Frame BackgroundColor="#2196F3" Padding="45" CornerRadius="0">
+            <Label Text="Registra tus notas" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        </Frame>
+
+        <Label Text="Puedes guardar o borrar tus notas" FontSize="18" Margin="0,30,0,0" HorizontalTextAlignment="Center"/>
+        <Editor x:Name="txt_entrada" Placeholder="captura tu nota" Margin="20,30,20,0"/>
+
+
+        <Grid Margin="20,30,20,0">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*" />
+                <RowDefinition Height="1" />
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="2" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+
+            <Button x:Name="btn_guardar" Clicked="btn_guardar_Clicked" Text="Guardar" Grid.Column="1" CornerRadius="20" BackgroundColor="GreenYellow" />
+            <Button x:Name="btn_borrar" Clicked="btn_borrar_Clicked" Text="Borrar" Grid.Column="2" CornerRadius="20" BackgroundColor="OrangeRed"/>
+
+        </Grid>
+
+
+    </StackLayout>
+
+</ContentPage>
