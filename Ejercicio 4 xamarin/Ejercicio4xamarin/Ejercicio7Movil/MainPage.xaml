@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Ejercicio7Movil.MainPage">
+
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Comieza a recordar" FontSize="Title" Padding="30,10,30,10"/>
+            <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
+                <Label Text="Bienvenido a mi programa notas rapidas" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+            </Frame>
+            <Editor x:Name="entrada" Placeholder="Captura tu nota" HeightRequest="100">
+            </Editor>
+            <Grid ColumnDefinitions="*,*">
+                <Button
+                Text="Guardar"
+                Clicked="Button_Clicked_1">
+                </Button>
+                <Button Grid.Column="1"
+                        Text="Borrar"
+                        Clicked="Button_Clicked">
+                </Button>
+            </Grid>
+        </StackLayout>
+    </ContentPage.Content>
+
+</ContentPage>
